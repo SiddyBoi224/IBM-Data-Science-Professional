@@ -1,7 +1,0 @@
-1) Data science is the study of large quantities of data, which can reveal insights that help organizations make strategic choices.
-2) There are many paths to a career in data science; most, but not all, involve math, programming, and curiosity about data.
-3) New data scientists need to be curious, judgemental and argumentative.
-4) Knowledgeable data scientists are in high demand. Jobs in data science pays high salaries for skilled workers.
-5) The typical work day for a Data Scientist varies depending on what type of project they are working on.
-6) Many algorithms are used to bring out insights from data. 
-7) Some key data science related terms you learned in this lesson include: outliers, model, algorithms, JSON, XML. CSV, and regression.
